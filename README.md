@@ -1,4 +1,4 @@
-### Olá! Sou o Walace Ramos, seja bem vindo ao meu GitHub.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=405EF7&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Walace+Ramos.;Seja+bem+vindo+ao+meu+GitHub!;Conhe%C3%A7a+minha+trajet%C3%B3ria+abaixo.)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Walace_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walace-ramos-dev/)
