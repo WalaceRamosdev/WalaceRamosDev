@@ -19,4 +19,4 @@
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div><br/>
 
-#### Programador iniciante que busca aprender cada dia mais sobre esse novo mundo da programação, que ainda é bem desconhecido, porém, apaixonante !
+#### Um passo de cada vez...não me importo com velocidade, e sim com distância !
